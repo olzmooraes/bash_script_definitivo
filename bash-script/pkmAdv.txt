@@ -1,0 +1,19 @@
+TYPE	 ADVANTAGE OVER
+Grass	Water, Ground, Rock
+Rock	Fire, Ice, Flying, Bug
+Ice	Grass, Ground, Flying, Dragon
+Dragon	Dragon
+Dark	Psychic, Ghost
+Psychic	Fighting, Poison
+Bug	Grass, Psychic, Dark
+Flying	Grass, Fighting, Bug
+Steel	Ice, Rock, Fairy
+Fire	Grass, Ice, Bug, Steel
+Fighting	Normal, Ice, Rock, Dark, Steel
+Ground	Fire, Electric, Poison, Rock, Steel
+Ghost	Psychic, Ghost
+Poison	Grass, Fairy
+Water	Fire, Ground, Rock
+Fairy	Fight, Dragon, Dark
+Electric	Water, Flying
+Normal	None	Fighting

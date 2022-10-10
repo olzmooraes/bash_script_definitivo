@@ -1,0 +1,6 @@
+ #006	Charizard	Fire	Flying
+ 
+HP : 84
+Attack : 109
+Speed : 534
+Fraqueza: Rock, Ice, Ground, Water, Electric, 

@@ -1,0 +1,6 @@
+ #004	Charmander	Fire	
+ 
+HP : 52
+Attack : 60
+Speed : 309
+fraquezas : Rock, Ground, Water, 
