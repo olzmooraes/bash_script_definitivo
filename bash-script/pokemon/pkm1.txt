@@ -1,6 +1,0 @@
- #007	Squirtle	Water	
- 
-HP : 44
-Attack : 50
-Speed : 43
-Fraqueza: Grass, Electric, 
